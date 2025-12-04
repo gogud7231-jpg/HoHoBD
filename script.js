@@ -7,3 +7,4 @@ document.getElementById('btnO').addEventListener('click', () => {
 document.getElementById('btnX').addEventListener('click', () => {
   alert('잉잉 ㅠㅠ  😭😭');
 });
+
